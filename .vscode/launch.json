@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "flutter_web/lib/main.dart",
+            "program": "lib/main.dart",
             "request": "launch",
             "type": "dart"
         }
